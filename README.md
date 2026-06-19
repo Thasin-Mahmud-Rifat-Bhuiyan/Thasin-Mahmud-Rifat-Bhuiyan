@@ -1,6 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thasin%20Mahmud%20Rifat%20Bhuiyan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Thasin%20Mahmud%20Rifat%20Bhuiyan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Thasin-Mahmud-Rifat-Bhuiyan">
+    <img src="https://komarev.com/ghpvc/?username=Thasin-Mahmud-Rifat-Bhuiyan&label=Profile%20views&color=00FFFF&style=flat-square" alt="Thasin-Mahmud-Rifat-Bhuiyan's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 Student | 💻 CSE
@@ -88,6 +94,12 @@
   <a href="https://github.com/Thasin-Mahmud-Rifat-Bhuiyan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thasin-Mahmud-Rifat-Bhuiyan&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/thasin-mahmud-rifat-bhuiyan/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Thasin Mahmud Rifat Bhuiyan's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:tmrifat03@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Thasin Mahmud Rifat Bhuiyan's Email"/></a>
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/Buy Me a Coffee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
