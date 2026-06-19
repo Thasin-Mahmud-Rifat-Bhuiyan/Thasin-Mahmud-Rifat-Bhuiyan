@@ -20,21 +20,6 @@
 - 🚀 Problem Solving
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Thasin-Mahmud-Rifat-Bhuiyan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thasin-Mahmud-Rifat-Bhuiyan&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Thasin-Mahmud-Rifat-Bhuiyan's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Thasin-Mahmud-Rifat-Bhuiyan&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Thasin-Mahmud-Rifat-Bhuiyan's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Thasin-Mahmud-Rifat-Bhuiyan&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Thasin Mahmud Rifat Bhuiyan's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thasin-Mahmud-Rifat-Bhuiyan&theme=github_dark&radius=10" alt="Thasin-Mahmud-Rifat-Bhuiyan's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
