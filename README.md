@@ -2,6 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,24&text=Thasin%20Mahmud%20Rifat%20Bhuiyan&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=22&descColor=C084FC&descAlignY=60" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%"/>
+
 ## 📌 About Me
 - 🎓 Student | 💻 CSE
 - 💡 Competitive Programmer
