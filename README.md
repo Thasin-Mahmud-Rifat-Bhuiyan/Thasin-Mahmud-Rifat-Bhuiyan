@@ -12,13 +12,15 @@ Computer science enthusiast who fell into data structures & algorithms and never
 
 Currently splitting time between competitive programming grinds, machine learning rabbit holes, and the occasional full-stack side project — mostly to prove to myself that `O(n log n)` isn't the only thing that matters in life. 🙂
 
+CSE student at Daffodil International University, occasionally seen around the Health Informatics Research Lab (HIRL), DIU.
+
 ## Stack I Actually Use
 
 ```js
 const thasin = {
   languages: ["Python", "Java", "C++"],
-  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+  backend: ["Node.js", "Express.js", "PHP"],
   databases: ["MySQL", "MongoDB"],
   cloud: ["Docker", "AWS", "Google Cloud"],
   tools: ["Git", "VS Code", "Figma"],
@@ -33,7 +35,7 @@ const thasin = {
 - **[data-structure-hospital-management-c](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/data-structure-hospital-management-c)** — A hospital management system in raw C, held together by linked lists, stacks, and a healthy fear of pointers.
 - **[beecrowd-solutions](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/beecrowd-solutions)** — A growing pile of C++ solutions to Beecrowd problems. Some elegant. Some duct tape.
 - **[python-practice](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/python-practice)** — Where I learned OOP, file handling, and that Python forgives almost everything.
-- **[LifeFlow]** — *(couldn't find this repo yet — send me the link/name and I'll slot it in properly)*
+- **[LifeFlow](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/LifeFlow)** 🩸 — A blood donation management system that notifies eligible donors one-by-one based on proximity and reliability, instead of just blasting everyone at once. Built with PHP, MySQL & Bootstrap — proof that you don't need a JS framework to help save lives.
 
 ## My Relationship With Data Structures & Algorithms
 
