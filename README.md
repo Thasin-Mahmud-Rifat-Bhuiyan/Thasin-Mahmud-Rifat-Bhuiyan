@@ -2,112 +2,68 @@
 
 # Thasin Mahmud Rifat Bhuiyan
 
-**Software Developer &nbsp;·&nbsp; Data Structures & Algorithms &nbsp;·&nbsp; Machine Learning**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thasin-mahmud-rifat-bhuiyan/)
-[![Email](https://img.shields.io/badge/Email-tmrifat03%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:tmrifat03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan?tab=repositories)
+> *Turning `for` loops into life lessons, one Beecrowd problem at a time.*
 
 </div>
 
-<br/>
+## The Situation
 
-## Profile
+Computer science enthusiast who fell into data structures & algorithms and never really climbed back out. Somewhere between fixing a segfault in C and tuning an SVM for a text classifier, I accepted this is just my personality now.
 
-Software developer with a strong grounding in data structures, algorithms, and competitive programming, and hands-on project experience in machine learning and natural language processing. Comfortable working across the stack — from Python, Java, and C++ on the backend to React on the frontend — with practical exposure to data analysis, cloud, and DevOps tooling.
+Currently splitting time between competitive programming grinds, machine learning rabbit holes, and the occasional full-stack side project — mostly to prove to myself that `O(n log n)` isn't the only thing that matters in life. 🙂
 
-## Core Competencies
+## Stack I Actually Use
 
-| Area | Details |
-|---|---|
-| **Algorithms & Problem Solving** | Data Structures, Competitive Programming, Beecrowd / Judge-based problem sets |
-| **Machine Learning & AI** | Text Classification, NLP, Logistic Regression, SVM, Random Forest |
-| **Software Development** | Full-stack development, REST APIs, relational & NoSQL databases |
-| **Data Analysis** | Exploratory data analysis and visualization with the Python data stack |
+```js
+const thasin = {
+  languages: ["Python", "Java", "C++"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MySQL", "MongoDB"],
+  cloud: ["Docker", "AWS", "Google Cloud"],
+  tools: ["Git", "VS Code", "Figma"],
+  currentlyOverthinking: "whether this needs a Fenwick tree or just brute force"
+};
+```
 
-## Technical Skills
+## Projects That Somehow Work
 
-<table>
-<tr>
-<td valign="top" width="33%">
+- **[nlp-machine-learning](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/nlp-machine-learning)** — Taught a computer to guess what people mean, using Logistic Regression, SVM, and Random Forest with BoW/TF-IDF. Right more often than my code compiles on the first try.
+- **[data-visualization-with-python](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/data-visualization-with-python)** — Turned raw spreadsheets into actual charts with Pandas, NumPy, Matplotlib, and Seaborn.
+- **[data-structure-hospital-management-c](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/data-structure-hospital-management-c)** — A hospital management system in raw C, held together by linked lists, stacks, and a healthy fear of pointers.
+- **[beecrowd-solutions](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/beecrowd-solutions)** — A growing pile of C++ solutions to Beecrowd problems. Some elegant. Some duct tape.
+- **[python-practice](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/python-practice)** — Where I learned OOP, file handling, and that Python forgives almost everything.
+- **[LifeFlow]** — *(couldn't find this repo yet — send me the link/name and I'll slot it in properly)*
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## My Relationship With Data Structures & Algorithms
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Day 1**: "Arrays and loops, easy."
+- **Day 30**: "Wait, the tree needs to self-balance?"
+- **Day 90**: *Dynamic programming acceptance stage*
+- **Now**: Debating recursion vs. iteration like it's a personality trait
 
-</td>
-<td valign="top" width="33%">
+## Currently Available For
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- Competitive programming discussions (bring your own edge cases)
+- Machine learning / NLP collaborations
+- Full-stack side projects
+- Explaining why my code works on my machine
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## Find Me Online
 
-</td>
-<td valign="top" width="33%">
+- **LinkedIn**: [Thasin Mahmud Rifat Bhuiyan](https://www.linkedin.com/in/thasin-mahmud-rifat-bhuiyan/) — best place to reach me
+- **Email**: [tmrifat03@gmail.com](mailto:tmrifat03@gmail.com)
+- **GitHub**: [All repositories](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan?tab=repositories)
 
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## Selected Projects
-
-**[nlp-machine-learning](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/nlp-machine-learning)**
-Text classification pipeline comparing Logistic Regression, SVM, and Random Forest using Bag-of-Words and TF-IDF features.
-
-**[data-visualization-with-python](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/data-visualization-with-python)**
-Exploratory data analysis and visualization using Pandas, NumPy, Matplotlib, and Seaborn.
-
-**[data-structure-hospital-management-c](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/data-structure-hospital-management-c)**
-Hospital management system implemented in C using core data structure concepts.
-
-**[beecrowd-solutions](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/beecrowd-solutions)**
-Solutions to a range of competitive programming problems from the Beecrowd judge, written in C++.
-
-<details>
-<summary>More repositories</summary>
-<br/>
-
-**[python-practice](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/python-practice)** — Python fundamentals: control flow, functions, loops, OOP, and file handling.
-
-**[python-data-science-assignment_1](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan/python-data-science-assignment_1)** — Data science basics covering variables, conditions, loops, and formatted output.
-
-</details>
-
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thasin-Mahmud-Rifat-Bhuiyan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasin-Mahmud-Rifat-Bhuiyan&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thasin-Mahmud-Rifat-Bhuiyan&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-
 </div>
 
-## Contact
+---
 
-Open to internships, collaborations, and full-time opportunities in software development, machine learning, or data-focused roles.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thasin-mahmud-rifat-bhuiyan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tmrifat03@gmail.com)
+**Status**: Currently deciding whether that bug is a feature. ⏳
