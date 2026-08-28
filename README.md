@@ -57,14 +57,6 @@ const thasin = {
 - **Email**: [tmrifat03@gmail.com](mailto:tmrifat03@gmail.com)
 - **GitHub**: [All repositories](https://github.com/Thasin-Mahmud-Rifat-Bhuiyan?tab=repositories)
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thasin-Mahmud-Rifat-Bhuiyan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasin-Mahmud-Rifat-Bhuiyan&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
-
-</div>
 
 ---
 
